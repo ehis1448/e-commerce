@@ -1,0 +1,81 @@
+ul{
+    list-style-type: none;
+    background-color: antiquewhite;
+    margin: 0 10%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    display: inline-block;
+    padding: 20px;
+}
+.top-heading{
+    margin: 3% 10%;
+}
+#Men-Section{
+    margin: 3% 10%;
+}
+.col-item{
+    text-align: center;
+    margin-left: 50px;
+    display: inline-block;
+    width: 27%;
+    height: 200px;
+    background-color:
+}
+img{
+    width: 80%;
+}
+button{
+    padding: 5px 10px;
+    margin-right: 20px;
+    border-radius: 10px;
+
+}
+.cart{
+    background-color: orange;
+}
+.Buy{
+    background-color: skyblue;
+}
+.item-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.cap{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.suits{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+#description{
+    padding: 1% 0%;
+    margin: 3% 0%;
+    background-color: antiquewhite;
+}
+
+#bottom-section{
+    padding: 5% 15%;
+    text-align: center;
+}
+footer{
+    margin: 2%;
+    text-align: center;
+}
+body{
+    margin: 0;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-family: 'Sacramento', cursive;
+}
